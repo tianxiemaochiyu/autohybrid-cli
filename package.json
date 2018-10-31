@@ -1,0 +1,25 @@
+{
+  "name": "autohybrid-cli",
+  "version": "1.0.15",
+  "description": "hybrid-cli",
+  "main": "index.js",
+  "bin": {
+    "hybrid": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:indutny/brorand"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hybrid": "node index.js"
+  },
+  "author": "txmcy1993",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.19.0",
+    "cordova": "^8.1.2",
+    "shelljs": "^0.8.2"
+  },
+  "devDependencies": {}
+}
