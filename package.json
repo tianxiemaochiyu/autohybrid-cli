@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:indutny/brorand"
+    "url": "git@github.com:tianxiemaochiyu/autohybrid-cli.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
